@@ -31,3 +31,6 @@ The notebook will generate a CSV file named event_weather.csv with columns for e
 
 ## Disclaimer
 This notebook is for educational purposes only. Ensure compliance with the terms of service for the website being scraped and the APIs used.
+
+## Personal Note
+This is my first time doing any web scrapping and API connection. I would say I learned a lot and would definitely utilize this skill more in my future projects!
